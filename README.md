@@ -15,6 +15,10 @@ shaderView.animating = YES;
 [self.view addSubview:shaderView];
 ```
 
+This will make this awesome thingy appear:
+
+![alt tag](http://f.cl.ly/items/3T202d022n2C0G3K1P1d/Screen%20Shot%202013-09-24%20at%2012.25.06%20.png)
+
 Fragment Shader Uniforms
 ========================
 
