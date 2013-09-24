@@ -33,6 +33,7 @@ TODO
 
 * Retina support
 * OpenGL ES 3.0
+* CocoaPod
 
 License
 =======
