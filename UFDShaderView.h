@@ -1,6 +1,6 @@
 //
 //  UFDShaderView.h
-//  Ultraviolet2
+//  UFDShaderView
 //
 //  Created by Ulrik Damm on 24/9/13.
 //  Copyright (c) 2013 Robocat. All rights reserved.
