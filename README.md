@@ -24,6 +24,12 @@ uniform vec2 touch; // location of current touch
 uniform vec2 resolution; // resolution of the view
 ```
 
+TODO
+====
+
+* Retina support
+* OpenGL ES 3.0
+
 License
 =======
 
